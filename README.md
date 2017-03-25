@@ -1,2 +1,3 @@
 # whereisbb
-app in ionic2 
+app in ionic2
+BY paolazarate 
